@@ -1,0 +1,13 @@
+.btn-purple {
+  color: whitesmoke;
+  font-weight: 600;
+  background-color: #35495e; /* bleu foncé */
+  padding: 15px 20px;
+  border-radius: 5px;
+  margin: 20px 0px;
+}
+
+.btn-purple:hover {
+  color: white;
+  background-color: #1f2e3a; /* bleu foncé au survol */
+}
